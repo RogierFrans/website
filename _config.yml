@@ -20,10 +20,10 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Sebastian Gabel'
+title:		           'Rogier Fransen'
 description:	       ''
-author:              'Sebastian Gabel'
+author:              'Rogier Fransen'
 
-url: https://www.sebastiangabel.com
+url: https://www.rogierfransen.com
 baseurl: ""
 
