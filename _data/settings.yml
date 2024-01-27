@@ -5,17 +5,14 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Research', path: 'menu', url: 'research.html'}
-- {name: 'Honors', path: 'menu', url: 'honors.html'}
-- {name: 'Industry', path: 'menu', url: 'industry.html'}
-- {name: 'Teaching', path: 'menu', url: 'teaching.html'}
+- {name: 'Projects', path: 'menu', url: 'projects'}
+- {name: 'Work Experience', path: 'menu', url: 'honors.html'}
 - {name: 'Education', path: 'menu', url: 'education.html'}
 
 social:
-- {icon: 'github', link: 'https://www.github.com/sbstn-gbl'}
-- {icon: 'orcid', link: 'https://orcid.org/0000-0003-3522-2263'}
+- {icon: 'github', link: 'https://www.github.com/RogierFrans'}
 - {icon: 'envelope', link: 'mailto:rogierfransen2@gmail.com'}
-- {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=5fqoqisAAAAJ'}
+- {icon: 'strava', link: 'https://www.strava.com/athletes/53040200'}
 
 pagination:
   next_page: 'Newer'
