@@ -7,7 +7,7 @@ google-ID: ''
 menu:
 - {name: 'Projects', path: 'menu', url: 'projects.md'}
 - {name: 'Work Experience', path: 'menu', url: 'honors.html'}
-- {name: 'Education', path: 'menu', url: 'education.md'}
+- {name: 'Education', path: 'menu', url: '/education/'}
 
 social:
 - {icon: 'github', link: 'https://www.github.com/RogierFrans'}
