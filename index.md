@@ -5,7 +5,7 @@ title: About me
 
 <div style="clear: both;">
 
-  <div style="float: left; margin-right 2em;">
+  <div style="float: left; margin-right 3em;">
     <img src="/assets/img/Foto_IWILL1.jpeg" width="220">
   </div>
 

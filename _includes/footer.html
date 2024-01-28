@@ -1,4 +1,9 @@
 <footer class="footer">
   {% include social-icons.html %}
-  <div class="post-date"><a href="{{ site.github.url }}/index.html">{{ site.title }} &#8287; | &#8287; 2021–2023 </a></div>
+  {% if site.social_links.strava %}
+  <a href="{{ site.social_links.strava }}" target="_blank" title="Follow me on Strava">
+    <img src="/assets/img/5163748.png" alt="strava">
+  </a>
+{% endif %}
+  <div class="post-date"><a href="{{ site.github.url }}/index.html">{{ site.title }} &#8287; | &#8287; 2024 </a></div>
 </footer>

@@ -1,10 +1,7 @@
-# Sebastian Gabel
+# Rogier Fransen
 
-Private website.
+Personal Site
 
-Serve locally with
+See: rogierfransen.com
 
-```
-bundle exec jekyll serve
-```
 

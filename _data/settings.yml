@@ -6,7 +6,7 @@ google-ID: ''
 
 menu:
 - {name: 'Projects', path: 'menu', url: 'projects.md'}
-- {name: 'Work Experience', path: 'menu', url: 'honors.html'}
+- {name: 'Work Experience', path: 'menu', url: 'workexperience.md'}
 - {name: 'Education', path: 'menu', url: 'education'}
 
 social:
