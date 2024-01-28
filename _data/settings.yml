@@ -5,8 +5,8 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Projects', path: 'menu', url: 'projects.md'}
-- {name: 'Work Experience', path: 'menu', url: 'workexperience.md'}
+- {name: 'Projects', path: 'menu', url: 'projects'}
+- {name: 'Work Experience', path: 'menu', url: 'work'}
 - {name: 'Education', path: 'menu', url: 'education'}
 
 social:
