@@ -9,7 +9,7 @@ __Master in Business Analytics & Management__ <br>
 08/2023 – 06/2024 <br>
 [Erasmus University Rotterdam, Rotterdam School of Management](https://www.rsm.nl/) <br>
 
-Currently writing my Master Thesis about __Cookiewalls__: Interested? Here you can find some background information about it. [Tweakers (Dutch)](https://tweakers.net/nieuws/215424/meta-begint-met-aanbieden-abonnement-voor-reclamevrij-facebook-en-instagram.html); [Research by Rasaii, Gosain & Gasser (2023)](https://dl.acm.org/doi/10.1145/3618257.3624846) and more recent [Müller-Tribbensee, Miller, Skiera (2024)](https://papers.ssrn.com/abstract=4749217).
+Currently writing my Master Thesis about __Cookiewalls__: Interested? Here you can find my [Thesis](/assets/documents/Thesis_Rogier_Fransen_BAM.pdf), [Github repository](https://github.com/RogierFrans/Scriptie) and some [background information](https://tweakers.net/nieuws/215424/meta-begint-met-aanbieden-abonnement-voor-reclamevrij-facebook-en-instagram.html) about it.
 
 __Bachelor's degree in Business Administration__ <br>
 08/2019 – 06/2022 <br>
