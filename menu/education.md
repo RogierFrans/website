@@ -4,6 +4,11 @@ title: Education
 permalink: /menu/education
 ---
 
+__Exchange National University of Singapore, Business School__ <br>
+08/2024 – 12/2024 <br>
+[NUS Business School](https://bschool.nus.edu.sg/) <br>
+
+Participated in the RSM master exchange with the Business faculty of NUS, the [no. 1 university in Asia](https://bschool.nus.edu.sg/about-us/rankings/).
 
 __Master in Business Analytics & Management__ <br>
 08/2023 – 06/2024 <br>
