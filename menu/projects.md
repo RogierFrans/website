@@ -10,7 +10,7 @@ permalink: /menu/projects
 Greetings! I am Rogier, a dedicated professional harmonizing the realms of data analytics and legal studies.
 
 ### Advocating for tenants' rights
-**Chairman, Stichting Huurdersbelang Stadswonen (Feb'23 – Present)**
+**Chairman, Stichting Huurdersbelang Stadswonen (Feb'23 – Sept'24)**
 
 In my role as Chairman at Stichting Huurdersbelang Stadswonen, I oversee the advocacy for the rights of over 6,800 tenants.
 
