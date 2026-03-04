@@ -3,10 +3,15 @@ layout: page
 title: Work Experience
 permalink: /menu/work
 ---
+### Data Consultant
+**Capgemini**
+*May'25 -- Present*
+Projects: Worked on Creating a Data Platform.
+Tools: AWS, SQL (Athena), Jira, Confluence
 
 ### Data Analyst
 **Erasmus School of Law**  
-*Feb'22 -- Present*
+*Feb'22 -- Oct'24*
 
 **Project:** Streamlined operational processes by analyzing student data, CRM systems, and public data sources. Reduced manual work by over 80%, decreasing the task duration from 6 weeks to just 1 week.
 **Tools:** Utilized dashboards in PowerBI, R Markdown, Python, and Excel for optimizing marketing strategies and facilitating data-driven decision-making.
